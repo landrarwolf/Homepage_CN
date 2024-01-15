@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "林筠超LJC"
+title                    : "林筠超"
 description              : "机器学习"
 repository               : "landrarwolf/landrarwolf.github.io"
 google_scholar_stats_use_cdn : false
