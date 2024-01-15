@@ -31,7 +31,7 @@ redirect_from:
 
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉
+- *2023.09 - 202X.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 电子信息与通信工程学院, 湖北武汉
  
 <span class='anchor' id='-lwzl'></span>
 
